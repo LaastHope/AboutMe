@@ -1,0 +1,14 @@
+.ANYTHING:hover{
+  background-image: url(IMAGES/WEST.jpg);
+  font-size: 100px;
+}
+.SHIT{
+  width: 500px;
+  height: 500px;
+  display: block;
+  background-image: url(IMAGES/WEST.jpg);
+}
+.SHIT:hover{
+  background-image: url(IMAGES/KANYE.jpg);
+
+}
